@@ -1,0 +1,37 @@
+@media (max-width:360px){
+    .head{
+        display: none;
+    }
+
+
+    .aclamadas{
+        width: 100%;
+        flex-direction: row;
+    }
+
+    #peli1{
+        background-image: url(../img/breaking-small.jpg);
+    }
+
+    #peli2{
+        background-image: url(../img/thewalking-2.jpg);
+    }
+
+    #peli3{
+        background-image: url(../img/Peaky_Blinders_Serie_de_TV-713495787-large.jpg);
+    }
+
+    #peli4{
+        background-image: url(../img/dracula-2.jpg);
+    }
+
+    #peli5{
+        background-image: url(../img/onepiece-2.jpg);
+    }
+
+    .volver a ver{
+        width: 100%;
+    }
+
+
+}
